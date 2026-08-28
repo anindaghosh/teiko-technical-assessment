@@ -1,0 +1,14 @@
+[project]
+name = "teiko-technical-assessment"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "scipy",
+    "matplotlib>=3.9",
+    "streamlit",
+    "plotly",
+]
+
+[tool.setuptools]
+py-modules = []

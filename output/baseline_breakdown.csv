@@ -1,0 +1,15 @@
+# by_project
+project,sample_count
+prj1,384
+prj3,272
+
+# by_response
+response,subject_count
+yes,331
+no,325
+
+# by_sex
+sex,subject_count
+M,344
+F,312
+
