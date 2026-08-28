@@ -1,0 +1,5 @@
+pandas
+scipy
+matplotlib>=3.9
+streamlit
+plotly
